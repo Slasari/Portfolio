@@ -2,7 +2,7 @@ import github from "../assets/github.svg"
 import linkedin from "../assets/linkedin.svg"
 import mail from '../assets/mail.svg'
 
-export default function Inicio (){
+export default function Home (){
     return (<div>
         <h1>Ariel Salcito</h1>
         <h2>Full Stack Developer</h2>

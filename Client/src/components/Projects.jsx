@@ -1,4 +1,4 @@
-export default function Proyectos (){
+export default function Projects (){
     const proyectos = [{titulo:"pokemon", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"},{titulo:"pokemon", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"}]
     return (<div>
         <span>Proyectos</span>
