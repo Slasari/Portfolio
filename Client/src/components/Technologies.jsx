@@ -1,7 +1,7 @@
 import reactIcon from "../assets/technologies/react_logo.png"
 
 export default function Technologies (){
-    const front = [{name:"React", imagen:<img src={reactIcon} alt="not found"></img>},{name:"Redux",}, ]
+    const front = [{name:"React", imagen:<img src={reactIcon} alt="not found"></img>},{name:"Redux",}, {name: "Booststrap",}, {name: "HTML", }, {name: "CSS", }]
 
     const back = []
 

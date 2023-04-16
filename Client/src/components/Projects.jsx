@@ -1,5 +1,5 @@
 export default function Projects (){
-    const proyectos = [{titulo:"pokemon", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"},{titulo:"pokemon", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"}]
+    const proyectos = [{titulo:"Enciclopedia Pokemon", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"},{titulo:"GameHUB", imagen:"not found", tecnologias:["javascript", "react", "sequelize"], github:"www.hola.com", web:"www.chau.com", detalle:"aklsdjaslkdjsalkdjasdkljadklajdaskldjaslkdaj"}]
     return (<div>
         <span>Proyectos</span>
         {proyectos.map(e => {return (<Card 
