@@ -12,7 +12,7 @@ const Me = () => {
           I'm a Full-Stack developer with experience using React and NodeJS.
           Reach out if you'd like to learn more!
         </p>
-        <a className={styles.contactBtn}  href="mailto:myemail@email.com">Contact me</a>
+        <a className={styles.contactBtn}  href="mailto:ariel_salcito@live.com">Contact me</a>
       </div>
       <img className={styles.profile} src={getImageUrl('me/profile.png')} alt="Profile Image"></img>
       <div className={styles.topBlur}></div>

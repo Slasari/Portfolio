@@ -12,6 +12,10 @@
         "imageSrc": "skills/JavaScript.png"
     },
     {
+        "title": "TypeScript",
+        "imageSrc": "skills/typescript.png"
+    },
+    {
         "title": "React",
         "imageSrc": "skills/react.png"
     },
