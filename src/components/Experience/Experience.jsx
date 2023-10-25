@@ -35,7 +35,7 @@ const Experience = () => {
                   alt={historyItem.organization}
                 ></img>
                 <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organization}`}</h3>
+                  <h3>{`${historyItem.role} | ${historyItem.organization}`}</h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>{historyItem.experience.map((experience, id) => {
                     return (

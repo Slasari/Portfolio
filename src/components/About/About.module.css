@@ -53,6 +53,7 @@
   background-repeat: no-repeat;
   
   transition: 0.4s;
+  user-select: none;
 }
 
 .aboutItem:hover {
@@ -87,4 +88,10 @@
         padding-left: 0;
         padding-right: 0;
     }
+}
+
+@media screen and (max-width: 1200px) {
+  .aboutImage{
+    display: none;
+  }
 }

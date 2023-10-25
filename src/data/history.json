@@ -1,10 +1,18 @@
 [
     {
-        "role": "Software Engineer",
-        "organization": "Google",
-        "startDate": "Sept, 2022",
-        "endDate": "Present",
-        "experience": ["Worked on Google Maps", "Reduce load time"],
-        "imageSrc": "history/google.png"
+        "role": "Full Stack Developer",
+        "organization": "soyHenry",
+        "startDate": "April, 2022",
+        "endDate": "August, 2022",
+        "experience": ["Worked on my first SPA", "CRUD & Deploy", "Learned about HTML & CSS"],
+        "imageSrc": "history/henry.png"
+    },
+    {
+        "role": "Full Stack Developer",
+        "organization": "soyHenry",
+        "startDate": "April, 2022",
+        "endDate": "August, 2022",
+        "experience": ["Worked on my first E-commerce", "SCRUM Methodology", "Worked with a team of 7 people developing and deploying an E-commerce"],
+        "imageSrc": "history/henry.png"
     }
 ]
