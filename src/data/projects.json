@@ -1,11 +1,11 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest technologies",
-        "skills": ["React, Express, Node"],
-        "demo": "https://www.example.com",
-        "source": ""
+        "title": "GAMEHUB",
+        "imageSrc": "projects/gamehub.jpg",
+        "description": "E-commerce developed by a team of junior developers, It has many functionalities such as shopping cart, payment methods, user or admin mode, etc.",
+        "skills": ["React - Express - Node"],
+        "demo": "https://gamehub-chi.vercel.app/",
+        "source": "https://github.com/Xalivre/App-Proyecto-Grupal-"
     },
     {
         "title": "Project B",
