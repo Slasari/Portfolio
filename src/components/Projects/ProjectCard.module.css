@@ -3,15 +3,20 @@
 .container{
     display: flex;
     flex-direction: column;
-    border-radius: 10px;
+    border-radius: 23px;
     background: var(--color-secondary);
     box-shadow: 0 16px 14px 0 #04152d;
-    padding: 18px 24px;
+    padding: 18px;
     max-width: 400px;
+    height: 600px;
+    justify-content: space-between;
 }
 
 .image{
-    margin-bottom: 26px;
+    height: 200px;
+    width: calc(400px - 36px);
+    border-radius: 5px;
+    background-color: black;
 }
 
 .title{
@@ -23,14 +28,14 @@
     margin-top: 6px;
     font-size: 25px;
     font-weight: 400;
+    height: 192px;
 }
 
 .skills{
     width: 100%;
     margin-top: 14px;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    justify-content: center;
     gap: 6px;
     list-style: none;
 }
@@ -55,7 +60,7 @@
     color: var(--color-text);
     font-size: 30px;
     font-weight: 600;
-    border-radius: 100px;
+    border-radius: 10px;
     background: var(--color-primary);
     padding: 1px 22px;
 }

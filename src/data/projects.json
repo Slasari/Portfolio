@@ -8,12 +8,12 @@
         "source": "https://github.com/Xalivre/App-Proyecto-Grupal-"
     },
     {
-        "title": "Project B",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest technologies",
-        "skills": ["React, Express, Node"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "title": "eCommerceTech",
+        "imageSrc": "projects/eCommerceTech.png",
+        "description": "My first eCommerce developed with Angular, it has the basic functionalities such as a product list, shopping cart, currency conversion, etc.",
+        "skills": ["Angular - TypeScript - Node"],
+        "demo": "https://ecommercetech-omega.vercel.app/home",
+        "source": "https://github.com/Slasari/eCommerce-Tech"
     },
     {
         "title": "Project C",
