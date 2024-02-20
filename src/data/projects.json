@@ -16,11 +16,11 @@
         "source": "https://github.com/Slasari/eCommerce-Tech"
     },
     {
-        "title": "Project C",
+        "title": "Soon",
         "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest technologies",
-        "skills": ["React, Express, Node"],
-        "demo": "https://www.example.com",
+        "description": "I am working on this project",
+        "skills": ["React - Express - Node"],
+        "demo": "https://www.projectC.com",
         "source": "https://www.github.com"
     }
 ]
